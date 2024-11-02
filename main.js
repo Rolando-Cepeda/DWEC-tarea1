@@ -1,0 +1,1 @@
+let tarea1 = console.log("Hola Mundo");
